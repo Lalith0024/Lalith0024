@@ -1,3 +1,7 @@
+# ![Image Description](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0ODEwMDcsIm5iZiI6MTczODQ4MDcwNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAyVDA3MTgyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1YWMwNmI3NWI2ZGQ3MjAxMDE4MTdiODExMGUyZWFhYWQ3MjA1ZmI3MGUwYWFhZDU2MmQ2MGVjZDcxODgzNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gkmA2RoOIkVxUaXLX_UgrZ30oEqgatvPY41JXXiWxuc)
+
+
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kasula Lalithendra
 
 ---
@@ -21,7 +25,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-## ![Cool Tech](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+![Cool GIF](https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif)
+
+
 
 ---
 
@@ -29,6 +35,8 @@
 🕵️‍♂️ Psst... There's a secret message in my profile! Try clicking [here](https://github.com/Lalith0024/Capstone-Project-1) and see if you can find it! 😉
 
 ---
+
+
 
 🚀 **Let's build something awesome together!**
 
