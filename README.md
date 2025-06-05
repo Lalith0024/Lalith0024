@@ -10,52 +10,119 @@
 ---
 
 ## 🙋‍♂️ About Me
-🔭 I'm an student at **Newton School of Technology** pursuing BTech in CS&AI, driven by curiosity and creativity.  
-💡 I build interactive, scalable web apps and love tackling logical puzzles in JS & Python.  
-🎯 Currently mastering **React**, **TailwindCSS**, **Node.js**, and diving deeper into **DSA & Pandas**.  
-🎨 I bring design and logic together using **Figma** for UI and **Code** for implementation.  
-🌱 On a mission to turn ideas into impactful tech experiences.  
-📬 Let's connect:  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/lalithendra-kasula-1b90b7323/)  
-&nbsp;&nbsp;&nbsp;&nbsp;📩 [kasula.lalithendra2024@nst.rishihood.edu.in](mailto:kasula.lalithendra2024@nst.rishihood.edu.in)  
+🔭 I'm a student at **Newton School of Technology**, pursuing BTech in CS&AI.  
+💡 Passionate about turning ideas into powerful web apps using JS & Python.  
+🎯 Currently diving into **React**, **TailwindCSS**, **Node.js**, **DSA**, and **Pandas**.  
+🎨 Blending design & logic through **Figma** and **Code**.  
+🌱 Exploring the tech world with curiosity and creativity.
 
 ---
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,tailwind,figma,pandas,git,github,vscode&perline=7" />
-</p>
+## 📬 Contact Me
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px; flex-wrap: wrap;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lalithendra-kasula-1b90b7323/" target="_blank" 
+     style="display: inline-block; border-radius: 50%; overflow: hidden; width: 70px; height: 70px; box-shadow: 0 0 20px #0A66C2; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="70" height="70"
+         style="border-radius: 50%; display: block; transition: all 0.3s ease;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:kasula.lalithendra2024@nst.rishihood.edu.in" target="_blank"
+     style="display: inline-block; border-radius: 50%; overflow: hidden; width: 70px; height: 70px; box-shadow: 0 0 20px #D44638; transition: all 0.3s ease;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+         alt="Email" width="70" height="70" 
+         style="border-radius: 50%; display: block; transition: all 0.3s ease;" />
+  </a>
+
+</div>
+
+<script>
+  // GitHub READMEs do NOT support <script>, so hover effects are via inline CSS
+</script>
+
+<style>
+  /* Not supported on GitHub but showing here for clarity */
+</style>
 
 ---
 
-## 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalith0024&show_icons=true&theme=radical&border_radius=15&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith0024&layout=compact&theme=dracula&border_radius=15" width="47%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalith0024&theme=tokyonight&hide_border=false" width="95%" />
+## 🏆 My LeetCode Profile
+
+<div align="center" style="margin-bottom: 40px;">
+  <a href="https://leetcode.com/u/Kasula_0024/" target="_blank"
+     style="display: inline-block; border-radius: 50%; overflow: hidden; width: 80px; height: 80px; box-shadow: 0 0 25px #FFA116; transition: all 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" width="80" height="80" 
+         style="border-radius: 50%; background: white; padding: 8px; display: block; transition: all 0.3s ease;" />
+  </a>
 </div>
 
 ---
 
-## ⚙️ Tools I Use
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+## 🚀 Tech Stack
+
+<p align="center" style="margin-bottom: 40px;">
+  <!-- Each icon is inside a span with round shape and glow -->
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #F0F0F0; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #264DE4; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #F0DB4F; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #61DBFB; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #339933; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #3776AB; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #38B2AC; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #F24E1E; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #150C3B; transition: all 0.3s ease;">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #F1502F; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #181717; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="border-radius: 50%;" />
+  </span>
+  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 60px; height: 60px; margin: 10px; box-shadow: 0 0 15px #0078D7; transition: all 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60" style="border-radius: 50%;" />
+  </span>
 </p>
 
+<style>
+  /* Hover scaling + glow effect */
+  span:hover {
+    transform: scale(1.3);
+    box-shadow: 0 0 30px #00ffff;
+    transition: all 0.3s ease;
+  }
+</style>
+
 ---
 
-## 🎯 Fun Projects & Secrets
-- 🔍 Explore one of my creative builds: [Capstone-Project-1](https://github.com/Lalith0024/Capstone-Project-1)  
-- 👀 Look closely... there's a surprise hidden inside. 🕵️‍♂️  
+## 🔥 Featured Project
+- 🔍 Check out: [Capstone-Project-1](https://github.com/Lalith0024/Capstone-Project-1)  
+- 👀 There's a surprise hidden inside! 🕵️‍♂️
 
 ---
 
-## 🌟 Let's Build Something Amazing!
+## 🌟 Let’s Build Something Amazing!
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="90%" />
 </p>
@@ -63,12 +130,3 @@
 <h3 align="center">
   <img src="https://img.shields.io/badge/Made%20with-💙%20by%20Lalithendra-blue?style=flat-square" />
 </h3>
-
----
-
-<!--
-🧠 Tips:
-- Keep README minimal yet impactful.
-- Use GitHub profile to reflect your real skill + vibe.
-- Link your best projects in the pinned repos for recruiters.
--->
