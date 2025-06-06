@@ -105,16 +105,7 @@
   </span>
 </p>
 
-<style>
-  /* Hover scaling + glow effect */
-  span:hover {
-    transform: scale(1.3);
-    box-shadow: 0 0 30px #00ffff;
-    transition: all 0.3s ease;
-  }
-</style>
 
----
 
 ## 🔥 Featured Project
 - 🔍 Check out: [Capstone-Project-1](https://github.com/Lalith0024/Capstone-Project-1)  
