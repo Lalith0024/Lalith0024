@@ -111,7 +111,8 @@
 - 🔍 Check out: [Capstone-Project-1](https://github.com/Lalith0024/Capstone-Project-1)  
 - 👀 There's a surprise hidden inside! 🕵️‍♂️
 
----
+----
+
 
 ## 🌟 Let’s Build Something Amazing!
 <p align="center">
