@@ -58,7 +58,7 @@
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Project stats
 <p align="center" style="margin:30px;">
   <a href="https://capstone-2-chi.vercel.app/">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalith0024&theme=neon-dark&hide_border=true&border_radius=20&card_width=450" alt="Capstone Project 2" style="border-radius:20px; box-shadow:0 0 35px #00FFFF;" />
