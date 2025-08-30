@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #F7DF1E;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #61DAFB;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #339933;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #000000;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #38B2AC;" />
 
   <!-- Databases -->
