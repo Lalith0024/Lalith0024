@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #3776AB;" />
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #150458;" />
 
-  <!-- Tools -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #F05032;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #181717;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #0078D7;" />
