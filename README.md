@@ -28,7 +28,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #38B2AC;" />
 
-  <!-- Databases -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #4479A1;" />
 
   <!-- Programming & Data -->
