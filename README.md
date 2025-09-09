@@ -19,7 +19,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <!-- Core Web -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #E34F26;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #1572B6;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" style="margin:12px; border-radius:50%; box-shadow:0 0 25px #F7DF1E;" />
